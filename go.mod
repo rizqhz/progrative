@@ -1,3 +1,3 @@
-module github.com/rizghz/progrative
+module github.com/rizqhz/progrative
 
-go 1.20
+go 1.21.5
